@@ -1,16 +1,43 @@
 ![image](https://github.com/vanthorng/terrex911/blob/master/dino.gif)
 
-<!--
-**vanthorng/vanthorng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi — I'm vanthorng
 
-Here are some ideas to get you started:
+I'm a full‑stack developer focused on building web applications and tools. I work with modern web frameworks and languages to deliver clean, maintainable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Languages & Technologies
+
+I use the following languages and technologies in my projects:
+
+- Astro
+- Vue.js
+- PHP (including Laravel / Blade)
+- JavaScript
+- TypeScript
+- Python
+- HTML
+- CSS
+
+I also work with related tools and frameworks such as Inertia, Vite, Tailwind, and Docker depending on each project's needs.
+
+---
+
+## Featured Projects
+
+- duckProduct — TypeScript: https://github.com/vanthorng/duckProduct
+- express-rest-service — TypeScript: https://github.com/vanthorng/express-rest-service
+- GitHub_Stats — Python: https://github.com/vanthorng/GitHub_Stats
+- JasperPHP — PHP: https://github.com/vanthorng/JasperPHP
+- Vue-shopping-cart — JavaScript: https://github.com/vanthorng/Vue-shopping-cart
+- learn-react-app — CSS / React practice: https://github.com/vanthorng/learn-react-app
+
+Browse my repositories to see demos, templates, and full‑stack applications.
+
+---
+
+## How to reach me
+
+- GitHub: https://github.com/vanthorng
+
+If you'd like a different tone, additional badges, or want to highlight specific repos, tell me which changes you want and I'll update the README.
